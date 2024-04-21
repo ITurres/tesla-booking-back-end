@@ -210,6 +210,7 @@ To run the project, execute the following command:
 - [ ] Add More Endpoints.
 - [ ] Add Users Role Based Access.
 - [ ] Delete "Reservations" option.
+- [ ] Add "Social Login".
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
